@@ -1,4 +1,5 @@
-
+/* var d = new Date();
+alert(d.getMonth()+1) */
 
 /* var count;
 for (count=0; count <= 5; count++){
